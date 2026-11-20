@@ -9,7 +9,7 @@
 
 Welcome to **Journey Through John**! This interactive web application is designed to help kids (and adults!) learn and remember the 21 chapters of the Gospel of John[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2F2ndchances520.github.io%2FJourneyThroughJohn%2F)]. With fun mini-games, unlockable chapters, and a progression system, learning Scripture has never been this engaging.
 
-🌐 **[Play the Live Demo Here!](https://2ndchances520.github.io/JourneyThroughJohn/)**
+🌐 **[Play the Live Demo Here!](https://panther159.github.io/Journey-Through-John/)**
 
 ---
 
